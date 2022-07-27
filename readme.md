@@ -5,9 +5,9 @@ Contributors: dearvn
 Tags: like box,gold price, dollar price
 Donate link: https://www.buymeacoffee.com/binancashb
 Requires at least: 4.6
-Tested up to: 5.9
+Tested up to: 6.0
 Requires PHP: 5.3
-Stable tag: 1.8.2
+Stable tag: 1.0.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 ```
