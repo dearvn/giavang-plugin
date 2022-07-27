@@ -1,5 +1,6 @@
 # Giavang
 
+```bash
 Contributors: dearvn
 Tags: like box,gold price, dollar price
 Donate link: https://www.buymeacoffee.com/binancashb
@@ -9,8 +10,8 @@ Requires PHP: 5.3
 Stable tag: 1.8.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
-
-The most popular way to display the Giavang on your WordPress website. Easy implementation using a shortcode or widget. Now available in 111 different languages
+```
+The most popular way to display the Giavang on your WordPress website. Easy implementation using a shortcode or widget. Now available in Vietnamese language
 
 
 
@@ -27,8 +28,6 @@ Other features include:
 
 * Uses your site language Vietnamese
 
-With more than 30,000 installs and over 50 5-star rating, the Giavang is one of the most popular social media plugins for WordPress.
-
 
 ## Frequently Asked Questions
 
@@ -40,6 +39,7 @@ Not yet, but it is on our roadmap.
 
 
 ## Screenshots
-1. Installation example
+1. Widget Gold Price
+2. Widget Dollar Price
 
 
