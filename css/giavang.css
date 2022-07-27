@@ -1,0 +1,58 @@
+.giavang-table {
+  width: 100%;
+  display: table;
+  color: #F1BD61;
+  background: #141823;
+  margin-bottom: 10px;
+}
+.giavang-table-caption {
+  display: table-caption;
+  text-align: center;
+  font-size: 12px;
+  font-weight: bold;
+}
+.giavang-table-header {
+  display: table-header-group;
+  background-color: gray;
+  font-weight: bold;
+  font-size: 14px;
+}
+.giavang-table-body {
+  display: table-row-group;
+  color: #F1BD61;
+  background: #141823;
+}
+.giavang-table-footer {
+  display: table-footer-group;
+  background-color: gray;
+  font-weight: bold;
+  font-size: 12px;
+  color: rgba(255, 255, 255, 0.45);
+}
+.giavang-table-header-cell {
+  display: table-cell;
+  padding: 10px;
+  text-align: justify;
+  border-bottom: 1px solid black;
+}
+.giavang-table-row {
+  display: table-row;
+}
+.giavang-table-body-cell {
+  display: table-cell;
+}
+.giavang-table-footer-cell {
+  display: table-cell;
+  padding: 10px;
+  text-align: justify;
+  border-bottom: 1px solid black;
+}
+.giavang-small {
+    font-size: 9px;
+}
+.giavang-up {
+    color: greenyellow;
+}
+.giavang-down {
+    color: red;
+}
